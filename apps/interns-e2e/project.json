@@ -1,0 +1,9 @@
+{
+  "name": "interns-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/interns-e2e/src",
+  "implicitDependencies": ["interns"],
+  "// targets": "to see all targets run: nx show project interns-e2e --web",
+  "targets": {}
+}
